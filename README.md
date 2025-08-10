@@ -1,4 +1,4 @@
-# Device/DevMode Manager for webOS TV
+lg# Device/DevMode Manager for webOS TV
 
 Simple tool to manage developer mode enabled or rooted webOS
 TV
